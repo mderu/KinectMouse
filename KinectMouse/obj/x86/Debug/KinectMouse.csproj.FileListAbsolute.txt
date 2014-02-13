@@ -1,0 +1,7 @@
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\bin\Debug\KinectMouse.exe
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\bin\Debug\KinectMouse.pdb
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\obj\x86\Debug\KinectMouse.exe
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\obj\x86\Debug\KinectMouse.pdb
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\obj\x86\Debug\KinectMouse.csprojResolveAssemblyReference.cache
+E:\KinectMouse\KinectMouse\obj\x86\Debug\KinectMouse.exe
+E:\KinectMouse\KinectMouse\obj\x86\Debug\KinectMouse.pdb

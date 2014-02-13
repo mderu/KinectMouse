@@ -1,0 +1,4 @@
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\bin\Release\KinectMouse.exe
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\bin\Release\KinectMouse.pdb
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\obj\x86\Release\KinectMouse.exe
+C:\Users\Nine\Documents\Visual Studio 2010\Projects\KinectMouse\KinectMouse\obj\x86\Release\KinectMouse.pdb
